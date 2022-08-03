@@ -1,0 +1,6 @@
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\ClienttypeApplication.java
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\domain\ClientType.java
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\repository\IClientTypeRepository.java
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\controller\ClientTypeController.java
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\service\IClientTypeService.java
+C:\workspace_Spring\Proyectofinanciero\clienttype\src\main\java\com\sistemabancario\clienttype\service\impl\ClientTypeService.java

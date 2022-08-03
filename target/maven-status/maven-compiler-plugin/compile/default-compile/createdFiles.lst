@@ -1,0 +1,6 @@
+com\sistemabancario\clienttype\service\IClientTypeService.class
+com\sistemabancario\clienttype\service\impl\ClientTypeService.class
+com\sistemabancario\clienttype\controller\ClientTypeController.class
+com\sistemabancario\clienttype\domain\ClientType.class
+com\sistemabancario\clienttype\ClienttypeApplication.class
+com\sistemabancario\clienttype\repository\IClientTypeRepository.class
